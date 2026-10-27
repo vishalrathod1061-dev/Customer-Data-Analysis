@@ -47,7 +47,7 @@ The repository contains the following project deliverables:
 * `Customer Analysis dashboard.pdf` — PDF export of the dashboard.
 * `PRDA-04_Customer_Shopping_Insights_Presentation.pptx` — Project presentation.
 * `PRDA-04_Customer_Shopping_Insights_Report.docx` — Project analysis report.
-* `PRDA-05.docx_customer_data_analysis.docx` — Customer Data Analysis document.
+
 
 ## Business Recommendations
 
